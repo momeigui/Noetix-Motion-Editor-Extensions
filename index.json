@@ -27,6 +27,32 @@
       "archive_url": "./Noetix-Motion-Editor-0.1.0-test.6-win64-cp313-pyd.zip",
       "archive_size": 1003735,
       "archive_hash": "sha256:c710406ab419abff7dfac1987a1594a074fcc269aca8d70a566c8a841aa6d2ba"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "noetix_motion_editor",
+      "name": "Noetix Motion Editor",
+      "tagline": "\u52a8\u4f5c\u5bfc\u5165\u3001IK/FK \u7f16\u8f91\u4e0e\u591a\u683c\u5f0f\u5bfc\u51fa",
+      "version": "0.1.1",
+      "type": "add-on",
+      "maintainer": "zhimei",
+      "license": [
+        "SPDX:LicenseRef-Proprietary"
+      ],
+      "blender_version_min": "5.2.0",
+      "website": "https://github.com/momeigui/Noetix-Motion-Editor",
+      "permissions": {
+        "files": "\u5bfc\u5165\u548c\u5bfc\u51fa\u672c\u5730\u52a8\u4f5c\u6587\u4ef6"
+      },
+      "tags": [
+        "Animation"
+      ],
+      "platforms": [
+        "windows-x64"
+      ],
+      "archive_url": "./Noetix-Motion-Editor-0.1.1-test.7-win64-cp313-pyd.zip",
+      "archive_size": 1003740,
+      "archive_hash": "sha256:19e564f0b3444063e89fb42dafb8455bf205bcd04d20d521c1f75ae54feb2d31"
     }
   ]
 }
