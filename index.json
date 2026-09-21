@@ -24,9 +24,9 @@
       "platforms": [
         "windows-x64"
       ],
-      "archive_url": "./Noetix-Motion-Editor-0.1.0-test.5-win64-cp313-pyd.zip",
-      "archive_size": 1002735,
-      "archive_hash": "sha256:9a05c2cd9122bca869c0b11d9f41a1903c57aa0634c84ef5b588faeee92bf6b1"
+      "archive_url": "./Noetix-Motion-Editor-0.1.0-test.6-win64-cp313-pyd.zip",
+      "archive_size": 1003735,
+      "archive_hash": "sha256:c710406ab419abff7dfac1987a1594a074fcc269aca8d70a566c8a841aa6d2ba"
     }
   ]
 }
