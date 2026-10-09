@@ -7,7 +7,7 @@
       "id": "noetix_motion_editor",
       "name": "Noetix Motion Editor",
       "tagline": "\u52a8\u4f5c\u5bfc\u5165\u3001IK/FK \u7f16\u8f91\u4e0e\u591a\u683c\u5f0f\u5bfc\u51fa",
-      "version": "0.1.28",
+      "version": "0.1.29",
       "type": "add-on",
       "maintainer": "zhimei",
       "license": [
@@ -24,9 +24,9 @@
       "platforms": [
         "windows-x64"
       ],
-      "archive_url": "./Noetix-Motion-Editor-0.1.28-win64-cp313-pyd.zip",
-      "archive_size": 1755959,
-      "archive_hash": "sha256:d86d777572f0c56463d2afc236b76f1a964d6c38300d4930f1d35cfde6f561e6"
+      "archive_url": "./Noetix-Motion-Editor-0.1.29-win64-cp313-pyd.zip",
+      "archive_size": 1755973,
+      "archive_hash": "sha256:5e70269e94fc24dd31b6ee3989fd75845e749972460efff629a6e550caefb9fd"
     }
   ]
 }
